@@ -41,4 +41,4 @@ Este app utiliza **transcrições automáticas de vídeos do YouTube** e a IA do
 
    ```bash
    git clone https://github.com/seu-usuario/sumarizador-ia-youtube.git
-   cd sumarizador-ia-youtube
+   cd alura-gemini

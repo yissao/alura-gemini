@@ -19,8 +19,8 @@ Este app utiliza **transcrições automáticas de vídeos do YouTube** e a IA do
 
 ## 🧠 Como funciona?
 
-1. Cole a **transcrição automática** de um vídeo do YouTube.
-2. ID do vídeo (ex: https://www.youtube.com/watch?v=7xco9igjUAQ -> **ID = 7xco9igjUAQ)**
+1. Cole a **ID do vídeo** de um vídeo do YouTube.
+2. ex: https://www.youtube.com/watch?v=7xco9igjUAQ -> **ID = 7xco9igjUAQ**
 3. O sistema entende o contexto e corrige erros de fala, pontuação e digitação.
 4. A IA gera um resumo claro e preciso do conteúdo do vídeo.
 
